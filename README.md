@@ -11,7 +11,9 @@ python RouteMapTest.py -v
 ```
 
 ## Design
-The RouteMap class contains 3 functions:
+The RouteMap class contains 4 functions:
+- initialize_graph(input_file_path)
+  - Constructs network from input file
 - find_route_length(route_string)
   - Calculates distance along a route
 - find_number_routes(source, target, distance, distance_type)
