@@ -2,7 +2,7 @@
 ## Files
 - *assessment_input.txt*: Contains edgelist to initialize railroad network. Each edge should be on a new line and have the format [source][target][distance]. The stops should be single characters, the distance should be a positive integer.
 - *RouteMap.py*: Contains the RouteMap class that calculates the solution.
-- *RouteMapTest.py*: Contains test cases from the assignment.
+- *RouteMapTest.py*: Contains the test cases from the assignment.
 
 ## Testing
 To test the solution:
