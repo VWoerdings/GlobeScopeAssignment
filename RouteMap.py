@@ -59,8 +59,8 @@ class RouteMap:
 
     Methods
     -------
-        initialize_graph(input_file_path)
-                Constructs network from input file
+    initialize_graph(input_file_path)
+        Constructs network from input file
     find_route_length(route_string)
         Calculates distance along a route
     find_number_routes(source, target, distance, distance_type)
